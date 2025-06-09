@@ -9,6 +9,7 @@ body
     display:flexbox;
     flex-direction: row;
     height:auto;
+    width:auto;
 }
 .home
 {
