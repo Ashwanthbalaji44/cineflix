@@ -9,7 +9,7 @@ body
     display:flexbox;
     flex-direction: row;
     height:auto;
-    width:auto;
+    width:100%;
 }
 .home
 {
