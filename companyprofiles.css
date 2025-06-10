@@ -316,3 +316,11 @@ h2,p
     color: rgb(202, 132, 3);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+@media screen and (max-width: 768px) {
+    /* Navigation */
+    .navi {
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+}
